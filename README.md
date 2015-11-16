@@ -33,10 +33,9 @@ API de Weather :
 4. Liste de requêtes GET :
   - GET /orgs/octokit/repos -> Shema résumé
   - GET /repos/octokit/octokit.rb -> Schema détaillé
-  - GET /users/:username/gists ->users Gist
+  - GET /users/:username/gists -> users Gist
   - GET /gists -> gist
   - GET /gists/public -> gist publique
-  - 
 III - Tester les requêtes
 
 Voir partie précédente, questions 3 et 4 :
