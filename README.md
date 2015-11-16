@@ -4,7 +4,8 @@ TD1 :
 
 Etude API
 __________________
-
+Etude des API..
+__________________
 Lister des requêtes possibles
 __________________
 1. API de GitHub : 
@@ -30,17 +31,23 @@ API de Weather :
   - POST /gists/:id/forks
 
 4. Liste de requêtes GET :
-  - GET /orgs/octokit/repos (Shema résumé)
-  - GET /repos/octokit/octokit.rb (Shema détaillé)
-  - GET /users/:username/gists (users Gist)
-  - GET /gists (gist)
-  - GET /gists/public (gist publique)
+  - GET /orgs/octokit/repos -> Shema résumé
+  - GET /repos/octokit/octokit.rb -> Schema détaillé
+  - GET /users/:username/gists ->users Gist
+  - GET /gists -> gist
+  - GET /gists/public -> gist publique
 
+__________________
 Tester les requêtes
 __________________
+Voir partie précédente, questions 3 et 4 :
+( -> donne les resultats des requetes ) 
+__________________
+
 
 Conception application cliente
 __________________
 
 Les fonctionalités clients sont écrites entre parenthèses
   
+__________________
