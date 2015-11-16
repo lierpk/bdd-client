@@ -2,11 +2,16 @@
 
 TD1 : 
 
-Etude API
+__________________
+ - Etude API
 __________________
 Etude des API..
+
+
+
+
 __________________
-Lister des requêtes possibles
+ - Lister des requêtes possibles
 __________________
 1. API de GitHub : 
   - Informations sur utilisateur
@@ -37,15 +42,18 @@ API de Weather :
   - GET /gists -> gist
   - GET /gists/public -> gist publique
 
+
+
 __________________
-Tester les requêtes
+- Tester les requêtes
 __________________
 Voir partie précédente, questions 3 et 4 :
 ( -> donne les resultats des requetes ) 
+
+
+
 __________________
-
-
-Conception application cliente
+- Conception application cliente
 __________________
 
 Les fonctionalités clients sont écrites entre parenthèses
