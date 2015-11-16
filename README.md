@@ -1,13 +1,12 @@
 # bdd-client
 
 TD1 : 
-_____________________________________________ 
-Etude API 
-_____________________________________________ 
+
+I - Etude API 
 Etude des API..
-_____________________________________________ 
-Lister des requêtes possibles
-_____________________________________________ 
+
+II - Lister des requêtes possibles
+
 1. API de GitHub : 
   - Informations sur utilisateur
   - Informatons sur un repository
@@ -36,14 +35,13 @@ API de Weather :
   - GET /users/:username/gists ->users Gist
   - GET /gists -> gist
   - GET /gists/public -> gist publique
-_____________________________________________ 
-Tester les requêtes
-_____________________________________________ 
+  - 
+III - Tester les requêtes
+
 Voir partie précédente, questions 3 et 4 :
 ( -> donne les resultats des requetes ) 
-_____________________________________________ 
-Conception application cliente 
-_____________________________________________ 
+
+IV - Conception application cliente 
 
 Les fonctionalités clients sont écrites entre parenthèses
   
